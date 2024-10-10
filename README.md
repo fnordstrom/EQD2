@@ -4,7 +4,7 @@ This is a write-enabled script that calculates the corresponding EQD2 distributi
 
 Compiled binaries using the Eclipse Scripting API 18.0 are located in the `Binaries` folder.
 
-If the script is used in a clinical environment, make sure to read and follow the instructions in the Varian `Eclipse Scripting API Reference Guide` for Script Approval, which can be downloaded from [MyVarian.com](http//www.myvarian.com).
+If the script is used in a clinical environment, make sure to read and follow the instructions in the Varian `Eclipse Scripting API Reference Guide` for Script Approval, which can be downloaded from [MyVarian.com](http://www.myvarian.com).
 
 ## Disclamer
 
